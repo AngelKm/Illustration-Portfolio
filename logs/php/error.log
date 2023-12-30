@@ -1,0 +1,79 @@
+[27-Dec-2023 00:46:48 UTC] Sync process for Gutenberg Blocks has started.
+[27-Dec-2023 00:46:48 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[27-Dec-2023 00:46:48 UTC] BLOCK: Requests count 8
+[27-Dec-2023 00:46:48 UTC] BLOCK: Importing request 1 ..
+[27-Dec-2023 00:46:48 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[27-Dec-2023 00:46:49 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[27-Dec-2023 00:46:49 UTC] BLOCK: Completed request 1
+[27-Dec-2023 00:46:49 UTC] BLOCK: Importing request 2 ..
+[27-Dec-2023 00:46:49 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[27-Dec-2023 00:46:49 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[27-Dec-2023 00:46:50 UTC] BLOCK: Completed request 2
+[27-Dec-2023 00:46:50 UTC] BLOCK: Importing request 3 ..
+[27-Dec-2023 00:46:50 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[27-Dec-2023 00:46:50 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[27-Dec-2023 00:46:51 UTC] BLOCK: Completed request 3
+[27-Dec-2023 00:46:51 UTC] BLOCK: Importing request 4 ..
+[27-Dec-2023 00:46:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[27-Dec-2023 00:46:51 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[27-Dec-2023 00:46:51 UTC] BLOCK: Completed request 4
+[27-Dec-2023 00:46:51 UTC] BLOCK: Importing request 5 ..
+[27-Dec-2023 00:46:51 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[27-Dec-2023 00:46:52 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[27-Dec-2023 00:46:52 UTC] BLOCK: Completed request 5
+[27-Dec-2023 00:46:52 UTC] BLOCK: Importing request 6 ..
+[27-Dec-2023 00:46:52 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[27-Dec-2023 00:46:52 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[27-Dec-2023 00:46:52 UTC] BLOCK: Completed request 6
+[27-Dec-2023 00:46:52 UTC] BLOCK: Importing request 7 ..
+[27-Dec-2023 00:46:52 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[27-Dec-2023 00:46:52 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[27-Dec-2023 00:46:53 UTC] BLOCK: Completed request 7
+[27-Dec-2023 00:46:53 UTC] BLOCK: Importing request 8 ..
+[27-Dec-2023 00:46:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[27-Dec-2023 00:46:53 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[27-Dec-2023 00:46:53 UTC] BLOCK: Completed request 8
+[27-Dec-2023 00:46:53 UTC] Sync process for Gutenberg Blocks is done.
+[27-Dec-2023 00:46:53 UTC] BLOCK: Getting Server Custimizer CSS
+[27-Dec-2023 00:46:53 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[27-Dec-2023 00:47:46 UTC] PHP Warning:  Undefined variable $options in /Users/angel/Local Sites/my-portfolio/app/public/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2431
+[27-Dec-2023 00:47:46 UTC] PHP Warning:  Undefined variable $enabled_extensions in /Users/angel/Local Sites/my-portfolio/app/public/wp-content/plugins/astra-sites/inc/classes/class-astra-sites.php on line 2431
+[29-Dec-2023 22:43:23 UTC] Sync process for Gutenberg Blocks has started.
+[29-Dec-2023 22:43:23 UTC] CATEGORY: Storing in option ast-block-templates-categories
+[29-Dec-2023 22:43:23 UTC] BLOCK: Requests count 8
+[29-Dec-2023 22:43:23 UTC] BLOCK: Importing request 1 ..
+[29-Dec-2023 22:43:23 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=1&wireframe=yes
+[29-Dec-2023 22:43:23 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[29-Dec-2023 22:43:24 UTC] BLOCK: Completed request 1
+[29-Dec-2023 22:43:24 UTC] BLOCK: Importing request 2 ..
+[29-Dec-2023 22:43:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=2&wireframe=yes
+[29-Dec-2023 22:43:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[29-Dec-2023 22:43:26 UTC] BLOCK: Completed request 2
+[29-Dec-2023 22:43:26 UTC] BLOCK: Importing request 3 ..
+[29-Dec-2023 22:43:26 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=3&wireframe=yes
+[29-Dec-2023 22:43:26 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[29-Dec-2023 22:43:27 UTC] BLOCK: Completed request 3
+[29-Dec-2023 22:43:27 UTC] BLOCK: Importing request 4 ..
+[29-Dec-2023 22:43:27 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=4&wireframe=yes
+[29-Dec-2023 22:43:27 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[29-Dec-2023 22:43:28 UTC] BLOCK: Completed request 4
+[29-Dec-2023 22:43:28 UTC] BLOCK: Importing request 5 ..
+[29-Dec-2023 22:43:28 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=5&wireframe=yes
+[29-Dec-2023 22:43:28 UTC] BLOCK: Storing in option ast-block-templates-blocks-5
+[29-Dec-2023 22:43:28 UTC] BLOCK: Completed request 5
+[29-Dec-2023 22:43:28 UTC] BLOCK: Importing request 6 ..
+[29-Dec-2023 22:43:28 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=6&wireframe=yes
+[29-Dec-2023 22:43:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-6
+[29-Dec-2023 22:43:29 UTC] BLOCK: Completed request 6
+[29-Dec-2023 22:43:29 UTC] BLOCK: Importing request 7 ..
+[29-Dec-2023 22:43:29 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=7&wireframe=yes
+[29-Dec-2023 22:43:29 UTC] BLOCK: Storing in option ast-block-templates-blocks-7
+[29-Dec-2023 22:43:30 UTC] BLOCK: Completed request 7
+[29-Dec-2023 22:43:30 UTC] BLOCK: Importing request 8 ..
+[29-Dec-2023 22:43:30 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/blocks/?page_builder=gutenberg&per_page=30&page=8&wireframe=yes
+[29-Dec-2023 22:43:30 UTC] BLOCK: Storing in option ast-block-templates-blocks-8
+[29-Dec-2023 22:43:30 UTC] BLOCK: Completed request 8
+[29-Dec-2023 22:43:30 UTC] Sync process for Gutenberg Blocks is done.
+[29-Dec-2023 22:43:30 UTC] BLOCK: Getting Server Custimizer CSS
+[29-Dec-2023 22:43:30 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v2/get-customizer-css
+[30-Dec-2023 03:36:54 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: could_not_set, Error message: The cron event list could not be saved., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
